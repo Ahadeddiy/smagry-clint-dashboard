@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ahadeddiy.com/static/css/main.746bbdff.css",
+    "main.js": "/Ahadeddiy.com/static/js/main.a6058570.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Ahadeddiy.com/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portfolio5.png": "/Ahadeddiy.com/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/Ahadeddiy.com/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Ahadeddiy.com/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Ahadeddiy.com/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Ahadeddiy.com/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/Ahad-CV (8871504448).pdf": "/Ahadeddiy.com/static/media/Ahad-CV (8871504448).c9d5d979ab32ee72b5b2.pdf",
+    "static/media/portfolio4.jpg": "/Ahadeddiy.com/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/logo.svg": "/Ahadeddiy.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ahadeddiy.com/index.html",
+    "main.746bbdff.css.map": "/Ahadeddiy.com/static/css/main.746bbdff.css.map",
+    "main.a6058570.js.map": "/Ahadeddiy.com/static/js/main.a6058570.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Ahadeddiy.com/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746bbdff.css",
+    "static/js/main.a6058570.js"
+  ]
+}
