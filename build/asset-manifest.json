@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My_portfolio/static/css/main.746bbdff.css",
+    "main.js": "/My_portfolio/static/js/main.d58d4124.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portfolio5.png": "/My_portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/My_portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/My_portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/My_portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/My_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/Ahad-CV (8871504448).pdf": "/My_portfolio/static/media/Ahad-CV (8871504448).c9d5d979ab32ee72b5b2.pdf",
+    "static/media/portfolio4.jpg": "/My_portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/logo.svg": "/My_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/My_portfolio/index.html",
+    "main.746bbdff.css.map": "/My_portfolio/static/css/main.746bbdff.css.map",
+    "main.d58d4124.js.map": "/My_portfolio/static/js/main.d58d4124.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746bbdff.css",
+    "static/js/main.d58d4124.js"
+  ]
+}
